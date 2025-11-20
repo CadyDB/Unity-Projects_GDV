@@ -5,4 +5,4 @@ Projecten en codes in Unity
 
 Hieronder zie je een random item generator met namen van Youtubers.
 
-[test run](Schermopnames/GameDevelopment.gif)
+[test run](GameDevelopment.gif)
