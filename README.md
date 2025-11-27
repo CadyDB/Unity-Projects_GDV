@@ -6,3 +6,7 @@ Projecten en codes in Unity
 Hieronder zie je een random item generator met namen van Youtubers.
 
 ![test run](GameDevelopment.gif)
+
+Dit is de gebruikte code.
+
+![code](Code.png)
